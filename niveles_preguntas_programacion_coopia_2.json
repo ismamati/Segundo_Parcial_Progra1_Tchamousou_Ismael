@@ -1,0 +1,233 @@
+{
+    "nivel_1": [
+        {
+            "pregunta": "¿Qué es una variable?",
+            "opciones": [
+                "Espacio en memoria",
+                "Un programa"
+            ],
+            "votos": [
+                "Rojo",
+                "Azul",
+                "Rojo",
+                "Rojo",
+                "Rojo"
+            ],
+            "puntuacion": 100
+        },
+        {
+            "pregunta": "¿Cuál es el resultado de 2 + 2?",
+            "opciones": [
+                "4",
+                "22"
+            ],
+            "votos": [
+                "Rojo",
+                "Rojo",
+                "Rojo",
+                "Azul",
+                "Rojo"
+            ],
+            "puntuacion": 100
+        },
+        {
+            "pregunta": "¿Qué lenguaje utiliza 'print' para mostrar texto?",
+            "opciones": [
+                "Python",
+                "HTML"
+            ],
+            "votos": [
+                "Rojo",
+                "Rojo",
+                "Rojo",
+                "Rojo",
+                "Rojo"
+            ],
+            "puntuacion": 100
+        },
+        {
+            "pregunta": "¿Qué es un bucle?",
+            "opciones": [
+                "Repetición de código",
+                "Un error"
+            ],
+            "votos": [
+                "Rojo",
+                "Azul",
+                "Rojo",
+                "Rojo",
+                "Azul"
+            ],
+            "puntuacion": 100
+        },
+        {
+            "pregunta": "¿Cuál es el operador de asignación?",
+            "opciones": [
+                "=",
+                "=="
+            ],
+            "votos": [
+                "Rojo",
+                "Rojo",
+                "Rojo",
+                "Rojo",
+                "Rojo"
+            ],
+            "puntuacion": 100
+        }
+    ],
+    "nivel_2": [
+        {
+            "pregunta": "¿Qué estructura se usa para almacenar múltiples valores?",
+            "opciones": [
+                "Lista",
+                "Condición"
+            ],
+            "votos": [
+                "Azul",
+                "Rojo",
+                "Rojo",
+                "Azul",
+                "Rojo"
+            ],
+            "puntuacion": 200
+        },
+        {
+            "pregunta": "¿Qué significa 'if' en programación?",
+            "opciones": [
+                "Condición",
+                "Bucle"
+            ],
+            "votos": [
+                "Azul",
+                "Rojo",
+                "Azul",
+                "Azul",
+                "Rojo"
+            ],
+            "puntuacion": 200
+        },
+        {
+            "pregunta": "¿Cómo se declara una función en Python?",
+            "opciones": [
+                "def",
+                "function"
+            ],
+            "votos": [
+                "Rojo",
+                "Rojo",
+                "Rojo",
+                "Rojo",
+                "Rojo"
+            ],
+            "puntuacion": 200
+        },
+        {
+            "pregunta": "¿Cuál es el resultado de '3 * 3'?",
+            "opciones": [
+                "9",
+                "6"
+            ],
+            "votos": [
+                "Rojo",
+                "Azul",
+                "Azul",
+                "Rojo",
+                "Azul"
+            ],
+            "puntuacion": 200
+        },
+        {
+            "pregunta": "¿Cual es una forma de ordenamiento?",
+            "opciones": [
+                "bubble",
+                "circle"
+            ],
+            "votos": [
+                "Azul",
+                "Rojo",
+                "Rojo",
+                "Azul",
+                "Rojo"
+            ],
+            "puntuacion": 200
+        }
+    ],
+    "nivel_3": [
+        {
+            "pregunta": "¿Qué es una clase en programación?",
+            "opciones": [
+                "Molde para objetos",
+                "Una función"
+            ],
+            "votos": [
+                "Rojo",
+                "Rojo",
+                "Rojo",
+                "Rojo",
+                "Azul"
+            ],
+            "puntuacion": 300
+        },
+        {
+            "pregunta": "¿Qué significa 'return' en una función?",
+            "opciones": [
+                "Devuelve un valor",
+                "Finaliza el programa"
+            ],
+            "votos": [
+                "Rojo",
+                "Rojo",
+                "Rojo",
+                "Rojo",
+                "Rojo"
+            ],
+            "puntuacion": 300
+        },
+        {
+            "pregunta": "¿Cómo se accede a un elemento en una lista?",
+            "opciones": [
+                "Por índice",
+                "Con una clave"
+            ],
+            "votos": [
+                "Rojo",
+                "Rojo",
+                "Rojo",
+                "Rojo",
+                "Rojo"
+            ],
+            "puntuacion": 300
+        },
+        {
+            "pregunta": "¿Qué es una API?",
+            "opciones": [
+                "Interfaz de programación",
+                "Un compilador"
+            ],
+            "votos": [
+                "Azul",
+                "Azul",
+                "Azul",
+                "Azul",
+                "Rojo"
+            ],
+            "puntuacion": 300
+        },
+        {
+            "pregunta": "¿Qué se usa para iterar sobre una lista?",
+            "opciones": [
+                "for",
+                "if"
+            ],
+            "votos": [
+                "Rojo",
+                "Azul",
+                "Azul",
+                "Azul",
+                "Azul"
+            ],
+            "puntuacion": 300
+        }
+    ]
+}

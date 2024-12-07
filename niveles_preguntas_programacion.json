@@ -1,0 +1,79 @@
+{
+    "nivel_1": [
+        {
+            "pregunta": "¿Qué es una variable?",
+            "opciones": [
+                "Espacio en memoria",
+                "Un programa"
+            ],
+            "votos": [
+                "Azul",
+                "Rojo",
+                "Azul",
+                "Azul",
+                "Azul"
+            ],
+            "puntuacion": 100
+        },
+        {
+            "pregunta": "¿Cuál es el resultado de 2 + 2?",
+            "opciones": [
+                "4",
+                "22"
+            ],
+            "votos": [
+                "Azul",
+                "Rojo",
+                "Azul",
+                "Azul",
+                "Azul"
+            ],
+            "puntuacion": 100
+        },
+        {
+            "pregunta": "¿Qué lenguaje utiliza 'print' para mostrar texto?",
+            "opciones": [
+                "Python",
+                "HTML"
+            ],
+            "votos": [
+                "Azul",
+                "Rojo",
+                "Azul",
+                "Rojo",
+                "Rojo"
+            ],
+            "puntuacion": 100
+        },
+        {
+            "pregunta": "¿Qué es un bucle?",
+            "opciones": [
+                "Repetición de código",
+                "Un error"
+            ],
+            "votos": [
+                "Azul",
+                "Azul",
+                "Azul",
+                "Rojo",
+                "Azul"
+            ],
+            "puntuacion": 100
+        },
+        {
+            "pregunta": "¿Cuál es el operador de asignación?",
+            "opciones": [
+                "=",
+                "=="
+            ],
+            "votos": [
+                "Azul",
+                "Rojo",
+                "Rojo",
+                "Rojo",
+                "Rojo"
+            ],
+            "puntuacion": 100
+        }
+    ]
+}

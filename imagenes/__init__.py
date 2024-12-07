@@ -1,0 +1,1 @@
+from .fotos import imagen, fondo, preguntas
